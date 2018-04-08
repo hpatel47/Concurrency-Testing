@@ -1,2 +1,2 @@
 # Concurrency-Testing
-Python code which perform conucurrency and load testing on any db
+Perform conucurrency and load testing on any any database using python.
